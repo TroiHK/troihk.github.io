@@ -1,7 +1,5 @@
 # Barba.js with the CSS Plugin
 
-![Barba.js and CSS]
-
 Learn how to build a simple css page transitions using [Barba.js](https://barba.js.org/) and
 the [@barba/css](https://barba.js.org/docs/plugins/css/) plugin.
 
