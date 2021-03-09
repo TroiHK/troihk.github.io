@@ -17,3 +17,9 @@ footer a {
     	font-size: 24px;
     }
 }
+
+@media (max-width: 919px) {
+	.left-sidebar, .right-content {
+		width: 100%;
+	}
+}
